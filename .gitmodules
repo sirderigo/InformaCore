@@ -1,6 +1,6 @@
 [submodule "external/android-ffmpeg-java"]
 	path = external/android-ffmpeg-java
-	url = https://github.com/guardianproject/android-ffmpeg-java
+	url = https://github.com/sirderigo/android-ffmpeg-java
 [submodule "external/ODKFormParser"]
 	path = external/ODKFormParser
 	url = https://github.com/guardianproject/ODKFormParser.git
